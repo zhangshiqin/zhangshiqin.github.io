@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>空山飞花</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://coolisa.me/"/>
+  <updated>2018-08-14T10:18:52.066Z</updated>
+  <id>https://coolisa.me/</id>
+  
+  <author>
+    <name>Isabella</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2018 回顾</title>
+    <link href="https://coolisa.me/2018/08/14/2018plan/"/>
+    <id>https://coolisa.me/2018/08/14/2018plan/</id>
+    <published>2018-08-14T10:10:14.000Z</published>
+    <updated>2018-08-14T10:18:52.066Z</updated>
+    
+    <content type="html"><![CDATA[<p>2018 要变得更好啊。</p><p>毕竟有那么多野心。毕竟已经荒废了那么多岁月。</p><p>8月都要过半了。今年必须有大改变。</p><h3 id="恋爱"><a href="#恋爱" class="headerlink" title="恋爱"></a>恋爱</h3><p>恋情稳定。对方很好。</p><h3 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h3><p>没发挥到极致。也很难。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;2018 要变得更好啊。&lt;/p&gt;
+&lt;p&gt;毕竟有那么多野心。毕竟已经荒废了那么多岁月。&lt;/p&gt;
+&lt;p&gt;8月都要过半了。今年必须有大改变。&lt;/p&gt;
+&lt;h3 id=&quot;恋爱&quot;&gt;&lt;a href=&quot;#恋爱&quot; class=&quot;headerlink&quot; title=&quot;恋爱&quot;&gt;&lt;/a&gt;恋爱&lt;/h
+      
+    
+    </summary>
+    
+      <category term="work" scheme="https://coolisa.me/categories/work/"/>
+    
+    
+      <category term="myself" scheme="https://coolisa.me/tags/myself/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于我</title>
+    <link href="https://coolisa.me/2018/08/14/aboutme/"/>
+    <id>https://coolisa.me/2018/08/14/aboutme/</id>
+    <published>2018-08-14T10:06:26.000Z</published>
+    <updated>2018-08-14T10:19:13.624Z</updated>
+    
+    <content type="html"><![CDATA[<p>大学时候的博客全删了。删了个干净。总是这样毫无留恋地断舍离。</p><p>逝者已不可追。未来来自脚下。脚下满是踌躇。</p><p>成长中逐渐减少踌躇和犹豫不决，代表接受游戏规则，只能向前坚定的走。</p><p>love this life.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;大学时候的博客全删了。删了个干净。总是这样毫无留恋地断舍离。&lt;/p&gt;
+&lt;p&gt;逝者已不可追。未来来自脚下。脚下满是踌躇。&lt;/p&gt;
+&lt;p&gt;成长中逐渐减少踌躇和犹豫不决，代表接受游戏规则，只能向前坚定的走。&lt;/p&gt;
+&lt;p&gt;love this life.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://coolisa.me/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="myself" scheme="https://coolisa.me/tags/myself/"/>
+    
+  </entry>
+  
+</feed>
